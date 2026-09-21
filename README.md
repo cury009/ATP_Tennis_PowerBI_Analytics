@@ -7,7 +7,7 @@ El proyecto abarca el ciclo analítico completo: desde la ingesta, limpieza y pr
 ---
 
 ## 📌 Vistas del Dashboard
-
+![Vista General del Dashboard](dashboard_overview.png)
 ### 1. Rendimiento y Estadísticas Operativas (Overview Global)
 
 * **Visión macro del circuito:** Seguimiento de volumen de partidos, duración media por encuentro y evolución de aces por temporada.
@@ -15,7 +15,7 @@ El proyecto abarca el ciclo analítico completo: desde la ingesta, limpieza y pr
 * **Métricas de servicio y resiliencia:** Análisis de efectividad de primer servicio y porcentaje de puntos de rotura salvados (`% bp_saved`).
 
 ### 2. Análisis Cara a Cara (Head-to-Head & Matchups)
-
+![Comparativa Cara a Cara](dashboard_h2h.png)
 * **Comparador dinámico independiente:** Selección cruzada de dos tenistas cualesquiera del circuito mediante tablas desconectadas de dimensiones.
 * **Marcador H2H reactivo:** Balance histórico directo de victorias y derrotas con tarjetas de títulos condicionales dinámicos.
 * **Desglose por superficie:** Visualización apilada de porcentaje de victorias en arcilla, pista dura y hierba.
